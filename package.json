@@ -1,0 +1,22 @@
+{
+  "name": "backendchallenge",
+  "version": "1.0.0",
+  "description": "Create a web server with two endpoints:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashsharma04/BackendChallenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashsharma04/BackendChallenge/issues"
+  },
+  "homepage": "https://github.com/yashsharma04/BackendChallenge#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
